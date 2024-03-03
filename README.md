@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+(Advanced Version of Chatbot-AI with command features) 
+Advance features: It will take the command & perform the operations(added manually)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 (Advanced Version of Chatbot-AI with command features) 
-Advance features: It will take the command & perform the operations(added manually)
+Advance features: It will take the command & perform the operations that you will give & redirect you to the asked page(added manually)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
